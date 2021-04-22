@@ -1,6 +1,6 @@
 {
   "homepage": "https://sh-alireza.github.io/snake_game",
-  "name": "jsx",
+  "name": "snake_game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
