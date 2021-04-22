@@ -1,0 +1,13 @@
+.items{
+    border: 1px solid gold;
+    font-size: 5px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.food{
+    background: gold;
+}
+.snake{
+    background: #161fff;
+}
